@@ -1,0 +1,8 @@
+player_id,player_name,position,goals,assists,club
+1,Messi,Forward,30,12,Barcelona
+2,Xavi,Midfielder,10,15,Barcelona
+3,Iniesta,Midfielder,5,,Barcelona
+4,Puyol,Defender,,0,Barcelona
+5,Busquets,,3,8,Barcelona
+6,Neymar,Forward,20,10,
+7,,,15,,Barcelona
