@@ -1,0 +1,32 @@
+@relation barca_matchday_association
+
+@attribute Beer {t,f}
+@attribute Popcorn {t,f}
+@attribute Soda {t,f}
+@attribute SnackBox {t,f}
+@attribute Jersey {t,f}
+@attribute Scarf {t,f}
+@attribute Flag {t,f}
+@attribute Camera {t,f}
+
+@data
+t,t,f,f,t,t,f,f
+f,t,t,f,f,f,t,f
+t,t,f,f,f,f,t,f
+f,t,t,f,f,f,t,t
+t,t,f,f,t,t,f,f
+f,f,t,t,f,f,f,f
+t,t,f,f,t,t,f,f
+f,t,t,f,f,f,t,t
+t,t,f,f,t,t,f,f
+f,t,t,f,f,f,t,f
+t,t,f,f,t,t,f,f
+f,f,t,t,f,f,f,f
+t,t,f,f,t,t,f,f
+f,t,t,f,f,f,t,t
+t,t,f,f,t,t,f,f
+f,t,t,f,f,f,t,f
+t,t,f,f,t,t,f,f
+f,f,t,t,f,f,f,f
+t,t,f,f,t,t,f,f
+f,t,t,f,f,f,t,t
