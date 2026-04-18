@@ -1,0 +1,16 @@
+Goal_Scored_Level,Goals_Conceded_Level,Possession_Level,Home,Away,Opponent_Strength,Result
+High,Low,High,Yes,No,High,Win
+Medium,Medium,Medium,Yes,No,High,Win
+Low,High,Low,No,Yes,High,Lose
+Medium,Low,High,Yes,No,Medium,Win
+Low,High,Low,No,Yes,Medium,Lose
+High,Low,Medium,No,Yes,Low,Win
+Medium,Medium,Medium,Yes,No,Low,Win
+Low,Low,High,No,Yes,Low,Win
+Low,Medium,High,Yes,No,Low,Win
+High,Low,Medium,No,Yes,High,Win
+Low,High,Low,No,Yes,High,Lose
+Medium,Medium,High,Yes,No,Medium,Win
+High,Medium,Medium,Yes,No,High,Win
+Low,Medium,Medium,Yes,No,Medium,Lose
+Medium,Low,High,No,Yes,Low,Win
